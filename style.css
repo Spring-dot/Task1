@@ -1,8 +1,7 @@
 body {
-  background: rgb(2,0,36);
-background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(150,7,128,1) 49%, rgba(114,28,140,1) 52%, rgba(5,90,175,1) 61%, rgba(196,161,4,1) 71%, rgba(1,184,237,1) 91%, rgba(0,212,255,1) 100%);
-  background-repeat: no-repeat;
+  background-image: linear-gradient(to right, #e57aee, #b664bd, #894f8e, #5f3b62, #382739);
   background-size: auto;
+  background-repeat: no-repeat;
 
 }
 body {margin:0}
@@ -25,6 +24,22 @@ body {margin:0}
   background-color: blue;
 }
 
-.active2 {
-  background-color: blue;
+.icon1 {
+  background-color: #0756d1;
+}
+
+.icon2 {
+  background-color: #060552;
+}
+
+.icon3 {
+  background-color: #448deb;
+}
+
+.icon4 {
+  background-color: #1fe142;
+}
+
+.icon5 {
+  background-color: #cb4b14;
 }
