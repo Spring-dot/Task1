@@ -1,2 +1,2 @@
 # Task1
- Task 1 from CerebroKids comprising different components for a professional web page.
+ Task 1 with some specified feature.
